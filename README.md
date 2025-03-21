@@ -2,7 +2,21 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Sanzei-IT&data=followers,repositories,stars&theme=nautilus)](https://github.com/Sanzei-IT)
 
-<h2 align="left">🚀 About Me<br>👋 Hi, I'm Sanzei, a passionate developer & entrepreneur from Indonesia!<br>💻 Founder of Sanzei Soft – providing premium apps at affordable prices.<br>📱 Currently working on WhatsApp bot services & PowerPoint animation designs.<br>🌐 Building portfolio websites and helping clients establish their online presence.<br>🔧 Skilled in coding, IT solutions, and digital business.<br>🎓 A student at SMKN 1 Banyuanyar – majoring in ACP.</h2>
+```csharp
+-------------------------
+🚀 About Me
+👋 Hi, I'm Sanzei, a passionate developer & entrepreneur from Indonesia!
+💻 Founder of Sanzei Soft – providing premium apps at affordable prices.
+📱 Currently working on WhatsApp bot services & PowerPoint animation designs.
+🌐 Building portfolio websites and helping clients establish their online presence.
+🔧 Skilled in coding, IT solutions, and digital business.
+🎓 A student at SMKN 1 Banyuanyar – majoring in ACP.
+-------------------------
+```
+![](https://komarev.com/ghpvc/?username=Sanzei-IT&style=flat-square)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=nautilus)](https://github.com/Sanzei-IT)
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanzei-IT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
