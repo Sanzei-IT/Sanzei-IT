@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://img12.pixhost.to/images/1080/578396397_imgtmp.jpg" alt="GitHub Banner" width="100%" />
 
 <h2 align="left">🚀 About Me<br>👋 Hi, I'm Sanzei, a passionate developer & entrepreneur from Indonesia!<br>💻 Founder of Sanzei Soft – providing premium apps at affordable prices.<br>📱 Currently working on WhatsApp bot services & PowerPoint animation designs.<br>🌐 Building portfolio websites and helping clients establish their online presence.<br>🔧 Skilled in coding, IT solutions, and digital business.<br>🎓 A student at SMKN 1 Banyuanyar – majoring in ACP.</h2>
 
